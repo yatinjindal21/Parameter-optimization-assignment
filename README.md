@@ -40,6 +40,3 @@ This project demonstrates how to optimize Support Vector Machine (SVM) classifie
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-## ✍️ Author
-Akshit Tiwari
